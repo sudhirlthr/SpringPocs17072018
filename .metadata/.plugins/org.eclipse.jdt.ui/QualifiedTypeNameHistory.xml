@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.ibatis.common.resources.Resources"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactoryBuilder"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSessionFactory"/>
+<fullyQualifiedTypeName name="org.apache.ibatis.session.SqlSession"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="com.ibatis.sqlmap.client.SqlMapClientBuilder"/>
+<fullyQualifiedTypeName name="java.io.Reader"/>
+<fullyQualifiedTypeName name="com.ibatis.sqlmap.client.SqlMapClient"/>
+<fullyQualifiedTypeName name="com.sudhir.dao.GetDBConnection"/>
+<fullyQualifiedTypeName name="com.sudhir.service.EmployeeService"/>
+<fullyQualifiedTypeName name="com.sudhir.dto.EmployeeDTO"/>
+<fullyQualifiedTypeName name="com.sudhir.vo.EmployeeVO"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+<fullyQualifiedTypeName name="com.sudhir.controller.MainController"/>
+<fullyQualifiedTypeName name="com.sudhir.dao.EmployeeDao"/>
+<fullyQualifiedTypeName name="org.springframework.beans.BeanUtils"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.sudhir.bo.EmployeeBO"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.invoke.MethodHandleInfo"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.support.MethodReplacer"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+<fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="com.sudhir.bank.Bank"/>
+</qualifiedTypeNameHistroy>

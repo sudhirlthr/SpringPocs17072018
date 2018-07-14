@@ -1,0 +1,7 @@
+//com.springsource.config.ui.prefs.activePageIndex\:/BeanNestedFactory/src/com/sudhir/conf/application-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/BeanNestedFactory/src/com/sudhir/conf/childApplicationContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/BeanNestedFactory/src/com/sudhir/conf/parentApplicationContext.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/IOCProj27-LayeredApp-NestedBeanFactories/src/com/nt/cfgs/business-beans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/IOCProj27-LayeredApp-NestedBeanFactories/src/com/nt/cfgs/presentation1-beans.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+//com.springsource.config.ui.prefs.activePageIndex\:/Method\ Injection/src/com/sudhir/conf/application-context.xml=<?xml version\="1.0" encoding\="UTF-8"?>\n<activePage index\="0"/>
+eclipse.preferences.version=1

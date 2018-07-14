@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="CleanDialogSettings">
+		<item value="563" key="DIALOG_WIDTH"/>
+		<item value="false" key="BUILD_ALL"/>
+		<item value="true" key="TOGGLE_SELECTED"/>
+		<item value="505" key="DIALOG_HEIGHT"/>
+		<item value="434" key="DIALOG_X_ORIGIN"/>
+		<item value="74" key="DIALOG_Y_ORIGIN"/>
+		<item value="true" key="BUILD_NOW"/>
+	</section>
+	<section name="ExternalProjectImportWizard">
+		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="/home/sudhir/Desktop/Nataraz Projects/NTSP69 upto march21/IOCProj27-LayeredApp-NestedBeanFactories"/>
+			<item value="/media/sudhir/sudhir/Projects/StsPro1"/>
+			<item value="/media/sudhir/sudhir/Projects/Project2"/>
+			<item value="/media/sudhir/sudhir/Projects/POC"/>
+			<item value="/media/sudhir/sudhir/Projects/IOCBeanCollaboration"/>
+			<item value="/media/sudhir/sudhir/Projects/CoreModule_LayeredArchitecture"/>
+			<item value="/media/sudhir/sudhir/D/projects/rpbh/udemyPOC"/>
+			<item value="/media/sudhir/sudhir/D/projects/rpbh/Spring Demo Project"/>
+			<item value="/media/sudhir/sudhir/D/projects/rpbh/spring-demo-noe"/>
+			<item value="/media/sudhir/sudhir/D/projects/rpbh/RpbhBeta"/>
+			<item value="/media/sudhir/sudhir/D/projects/rpbh/POC"/>
+			<item value="/media/sudhir/sudhir/D/projects/rpbh/HackerEarth"/>
+			<item value="/media/sudhir/sudhir/D/projects/rpbh/DummyWithTest"/>
+			<item value="/home/sudhir/Desktop/IOC"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.eclipse.jdt.ui.wizards.JavaProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>

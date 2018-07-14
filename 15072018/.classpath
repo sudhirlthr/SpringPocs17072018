@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/sudhir/jar/Spring 5.0.3/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-beans-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sudhir/jar/Spring 5.0.3/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-context-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sudhir/jar/Spring 5.0.3/spring-framework-5.0.2.RELEASE-dist/spring-framework-5.0.2.RELEASE/libs/spring-core-5.0.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sudhir/Desktop/Project jars/jar_files/spring-test-4.3.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/home/sudhir/Desktop/Project jars/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="/home/sudhir/Desktop/Project jars/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
